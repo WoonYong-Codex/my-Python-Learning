@@ -1,2 +1,3 @@
 # my-Python-Learning
-Python Learning - Step By Step
+
+Basic Python Learning with Jupyter Notebook - Step By Step
